@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMielewczyk
 - 👀 I’m interested in ... programming.
-- 🌱 I’m currently learning ... HTML, CSS and some 2D games made with C# on Unity.Engine
+- 🌱 I’m currently learning ... HTML, CSS, JS :)
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... just write a massage to me :)
 
