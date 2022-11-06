@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JMielewczyk
 - 👀 I’m interested in ... programming.
-- 🌱 I’m currently learning ... HTML, CSS, JS :)
-- 💞️ I’m looking to collaborate on ... []
+- 🌱 I’m currently learning ... React :)
 - 📫 How to reach me ... just write a message to me :)
 
 <!---
